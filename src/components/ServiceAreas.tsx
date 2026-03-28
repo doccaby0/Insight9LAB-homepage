@@ -66,9 +66,9 @@ export default function ServiceAreas() {
           서울(강남구, 서초구, 송파구, 종로구 등), 경기도(수원, 용인, 성남, 고양, 화성 등), 인천, 강원도(춘천, 원주, 강릉), 
           충청도(충주, 청주, 천안, 아산), 대전, 세종, 전라도(전주, 익산, 군산, 광주, 목포, 여수), 
           경상도(포항, 구미, 경주, 대구, 울산, 부산, 창원, 진주), 제주도 등 전국 어디든 전문 강사진이 방문합니다.
-          기업 힐링 프로그램, 원예 클래스, 아로마테라피 워크숍, 공예 체험, ESG 교육, HRD 역량 강화, EAP 스트레스 관리 등 
+          기업 힐링 프로그램, 아로마(아로마테라피, 향수 만들기), 원예(테라리움, 가드닝), 공예(자개, 업사이클링), ESG 교육, HRD 역량 강화, EAP 스트레스 관리 등 
           맞춤형 소양 교육을 전국 최저가 수준의 합리적인 비용으로 제안합니다.
-          Horticulture, Crafts, Aroma Therapy, Perfumery, ESG, Corporate Wellness, Employee Assistance Program (EAP), 
+          Aroma Therapy, Horticulture, Crafts, ESG, Corporate Wellness, Employee Assistance Program (EAP), 
           HR Training, Team Building, Workshop in Seoul, Busan, Jeju, and all other Korean cities.
         </div>
       </div>

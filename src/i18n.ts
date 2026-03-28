@@ -169,7 +169,7 @@ const resources = {
         items: [
           {
             question: "인사이트9교육연구소는 어떤 프로그램을 제공하나요?",
-            answer: "인사이트9은 원예(테라리움, 가드닝), 공예(자개, 업사이클링), 조향(아로마테라피, 향수 만들기), ESG 교육 등 기업 임직원을 위한 프리미엄 힐링 및 소양 프로그램을 제공합니다."
+            answer: "인사이트9은 아로마(아로마테라피, 향수 만들기), 원예(테라리움, 가드닝), 공예(자개, 업사이클링), ESG 교육 등 기업 임직원을 위한 프리미엄 힐링 및 소양 프로그램을 제공합니다."
           },
           {
             question: "전국 어디든 출장 강의가 가능한가요?",
@@ -353,7 +353,7 @@ const resources = {
         items: [
           {
             question: "What programs does Insight 9 Lab provide?",
-            answer: "Insight 9 provides premium healing and education programs for corporate employees, including horticulture (terrariums, gardening), crafts (mother-of-pearl, upcycling), perfumery (aromatherapy, perfume making), and ESG education."
+            answer: "Insight 9 provides premium healing and education programs for corporate employees, including aroma (aromatherapy, perfume making), horticulture (terrariums, gardening), crafts (mother-of-pearl, upcycling), and ESG education."
           },
           {
             question: "Is on-site lecture available nationwide?",

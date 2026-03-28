@@ -46,7 +46,7 @@ export default function Portfolio() {
             </p>
           </div>
           <motion.a
-            href="https://drive.google.com/file/d/1yjUpV7i1GX45Cz-JHfI--Le-uU8PC3MV/view"
+            href="https://drive.google.com/file/d/1ET7v1rWNfc-ivk3lxXO_nuE3rjF6S5TA/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}

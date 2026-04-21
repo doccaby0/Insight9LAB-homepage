@@ -35,7 +35,7 @@ export default function Portfolio() {
   return (
     <section id="portfolio" className="py-32 bg-white">
       <div className="max-w-7xl mx-auto px-6">
-        <div className="flex flex-col md:flex-row md:items-end justify-between mb-24 gap-8">
+        <div className="mb-24">
           <div className="max-w-3xl">
             <span className="text-forest-green font-semibold tracking-[0.2em] text-xs uppercase mb-6 block">{t('programs.badge')}</span>
             <h2 className="text-3xl md:text-4xl font-serif mb-6 leading-tight text-zinc-900">
@@ -45,19 +45,6 @@ export default function Portfolio() {
               {t('programs.description')}
             </p>
           </div>
-          <motion.a
-            href="https://drive.google.com/file/d/1ET7v1rWNfc-ivk3lxXO_nuE3rjF6S5TA/view?usp=drive_link"
-            target="_blank"
-            rel="noopener noreferrer"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            className="inline-flex items-center gap-3 px-8 py-4 bg-forest-green text-white rounded-full font-bold hover:bg-forest-deep transition-all shadow-xl shadow-forest-green/10 whitespace-nowrap"
-          >
-            {t('programs.explore')}
-            <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-            </svg>
-          </motion.a>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-zinc-100 border border-zinc-100 rounded-3xl overflow-hidden">
